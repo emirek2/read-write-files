@@ -3,3 +3,4 @@ Dwight -salesman
 Pam - receptionist
 Michael -Manager
 Oscar - Accountant
+Pedro - bitch
